@@ -15,13 +15,13 @@ GEM
     arel (3.0.2)
     builder (3.0.4)
     i18n (0.6.1)
-    logger (1.2.8)
+    logger (1.5.1)
     mime-types (1.21)
     multi_json (1.6.0)
     mysql2 (0.3.11)
     rest-client (1.6.7)
       mime-types (>= 1.16)
-    tzinfo (0.3.35)
+    tzinfo (0.3.61)
 
 PLATFORMS
   ruby
